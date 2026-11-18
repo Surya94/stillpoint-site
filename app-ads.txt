@@ -1,0 +1,5 @@
+# app-ads.txt for Still Point Games
+# Placeholder: replace these comments with the lines from your AppLovin dashboard
+# (Account > app-ads.txt), e.g.:
+#   applovin.com, <your publisher key>, DIRECT, 08c9ec6d3a8a2e0c
+# plus one block per mediation network you enable.
